@@ -4,26 +4,27 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'en-uk
+'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Adventures in teach'
+description: ""
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Jaqueline Steiger'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+nickname: Monk1
+bio: 'Complaining and measuring horses. Scolding fish. Normal stuff'
+location: 'Thailand'
+url: 'http://esimonian.github.io/TEFLBlog'
+image: 'assets/images/jaqlargehead.jpg'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+short_url: 'esimonian.github.io/TEFLBlog'
+google_analytics:
+disqus: 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /TEFLBlog/
 
 # Permalinks
 permalink: /:title
@@ -56,13 +57,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: monk1
+repo: TEFLBlog
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+relative_source: ../TEFLBlog/
+destination: ../TEFLBlog-pages/
+production_url:  https://biomadeira.github.io/TEFLBlog/
+source_url:      https://github.com/esimonian/TEFLBlog/
 
 exclude:
   - README.md
