@@ -5,7 +5,7 @@ title: Word Nerding Out
 date:   2016-08-04
 tags: lexical teaching
 subclass: 'post tag-test tag-content'
-categories: 'monk1'
+categories: 'Monk1'
 navigation: True
 ---
 

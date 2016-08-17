@@ -62,7 +62,7 @@ repo: TEFLBlog
 branch: master
 relative_source: ../TEFLBlog/
 destination: ../TEFLBlog-pages/
-production_url:  https://biomadeira.github.io/TEFLBlog/
+production_url:  http://esimonian.github.io/TEFLBlog/
 source_url:      https://github.com/esimonian/TEFLBlog/
 
 exclude:
