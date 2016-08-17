@@ -12,6 +12,209 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Sentence Constituents</title>
+	  <link>/TEFLBlog//sentence-constituents</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-08-14T00:00:00+07:00</pubDate>
+	  <guid>/TEFLBlog//sentence-constituents</guid>
+	  <description><![CDATA[
+	     <p><strong>Clauses</strong> are a thing. We’re not talking about them yet.</p>
+
+<p><strong>Basically</strong> we try to organize information from the beginning to the end. While we don’t have topic markers, it can be assumed in English that the first part of the sentence is common knowledge or is at least setting the listener up to hear new information.</p>
+
+<h2 id="types-of-constituents">Types of Constituents</h2>
+
+<p>1) <strong>Noun phrases</strong> - consist of a noun or an article/adjective noun, or even a relative clause, but in general are all about a single thing. ex) the dog that bit me, a really old car.</p>
+
+<p>2) <strong>Verb phrases</strong> - the same but for verbs. don’t recommend staying, goes with.</p>
+
+<p>3) <strong>preposition phrases</strong> - begin with a preposition and then contain a noun phrase. On the corner, with many additional features.</p>
+
+<p>4) <strong>adjective phrase</strong> - contain an adjective, which can follow one or more adverbs,</p>
+
+<p>5) <strong>Adverb phrases</strong> - contain an adverb which can also follow MORE ADVERBS</p>
+
+<h2 id="functions">Functions</h2>
+
+<p>1) <strong>Subjects</strong></p>
+
+<p>2) <strong>Direct Objects</strong></p>
+
+<p>3) <strong>Complements</strong> - usually tell us something about the subject. Could be a noun phrase, adjective phrase, preposition phrase, or another clause. She became <u>a nicer person</u>. Complement verbs usually don’t make sense on their own (was, become).</p>
+
+<p>4) <strong>Indirect Objects</strong>  - don’t forget double object stuff also. This all makes sense to me because Spanish conveniently marks all of its objects and object pronouns. Apparently it might be easier to teach some indirect objects as adverbials. “she told the truth <u>to her husband</u>.”</p>
+
+<p>WTF is the difference between objects and complements? We can distinguish them in terms of meaning. Objects refer to different things than subjects. Complements refer back to the subject.</p>
+
+<blockquote>
+  <p>“She bought a car.”</p>
+
+  <p>“She became a celebrity.”</p>
+</blockquote>
+
+<p>The first has an object, the second has a complement. Another good test is that sentences with objects can be restructured into the passive voice and sentences with complements cannot.</p>
+
+<p>5) <strong>Adverbials</strong> are apparently a mystery. They can be PP, AdvP, or NP and usually begin with a preposition. They’re optional information we can add to a clause, and we can string a bunch together. They could also be an entire clause. Good.</p>
+
+<p>6) <strong>Coordinating Conjunctions</strong> what’s your function? Hookin’ up words and phrases and clauses. And but or.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Now they tell me. Sentences consist of a subject and a predicate. Predicates can be verb phrases, indirect objects, direct objects, double objects, or complements. All of this can also be based on the type of verb we choose, which are eponymous to the predicate type.</p>
+
+<hr />
+
+<h2 id="extra-bits">Extra Bits</h2>
+
+<p><strong>Dummy subjects</strong> are like null subjects or the null letter in thai. They don’t contribute to the meaning, but they are necessary for syntax. Take that, Chomsky. “It’s raining.”</p>
+
+<p><strong>Hay</strong> is its own grammatical construction in English - “there is”/”there are”. They don’t follow any other rules and are confusing.</p>
+
+<p><strong>Separated verb phrases</strong> are a thing we do sometimes.</p>
+
+<p><strong>Spoken English</strong> changes all these rules based on the whims of its mercurial speakers. Another problem for teachers and the model/real speech gap. See <u>On Model Speech.</u></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Transitive Verbs Take an Object</title>
+	  <link>/TEFLBlog//transitive-verbs-take-an-object</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-08-12T00:00:00+07:00</pubDate>
+	  <guid>/TEFLBlog//transitive-verbs-take-an-object</guid>
+	  <description><![CDATA[
+	     <p>Intransitive verbs do not.</p>
+
+<p>That is all.</p>
+
+<p>Let this be the last time I confuse transitive and intransitive verbs.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Dichotomies Involved in Language Teaching Part 2</title>
+	  <link>/TEFLBlog//dichotomies-in-language-teaching-part-2</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-08-10T00:00:00+07:00</pubDate>
+	  <guid>/TEFLBlog//dichotomies-in-language-teaching-part-2</guid>
+	  <description><![CDATA[
+	     <ol>
+  <li><strong>Signification and Value</strong> - Signification expresses the contextless meaning of a word, such as its dictionary definition. “This is my hand” is meaningful as a sentence but meaningless as an utterance - it takes a little bit of creative thinking to imagine this said in a normal conversation. But signification exists, sicne pictionary as a game works. We can have contextless meaning. Value is metaphorical meaning, omitted words that are understandable in the context of a conversation, or pronouns with agreed-upon meaning. Continues with the distinction of “correct” and “successful” language, or the further ideas of grammatical or communicative competence. See <strong>On Model Speech</strong>.</li>
+  <li><strong>Cohesion and Coherence</strong> - Cohesion is the grammatical linking of one part to another. It can be exemplified (but is not always so explicit) by repetitions of similar grammar or lexis across sentence boundaries, or in the case of conversation, across turn boundaries. Coherence is how a conversation remains structured without directe grammatical links, but rhetorical and situational ones instead. “Cohesion is about grammatical linking, coherence about pragmatic linking”.</li>
+  <li><strong>The Classroom and the Real World</strong> - This whole section is a sort of survey of the different models/approaches of language teaching, a lot of which can be summed up in this category, or at the very least have been brought into focus as this category has become more important in the discourse. While it’s awesome that we have the tools to study real speech increasingly and with greater volume, unanalyzed natural speech should be neither the target nor the model for classroom speech. In the past, the gulf between the classroom and the real world was too great. We don’t want to combine the two, but real speech should be both acknowledged and given more significance in the classroom. Although the classroom is not the “real” world per se, it is a situated activity system in that while all participants are there and interacting, it is <strong>a</strong> real world. There’s a risk in only being exposed to classroom speech, but there’s an equal risk in only being exposed to “real” speech, as your vocabulary/semiotics would be extremely diminished.
+    <ul>
+      <li>“The Lexical Approach suggests that much greater emphasis needs to be placed on students’ building a large vocabulary much m ore quickly than in any traditional syllabus.” Some of those words will have to be devoid of context - i.e. using flash cards and realia to tie words to meaning, but not introducing them in a sentence every single time with a purpose.</li>
+    </ul>
+  </li>
+  <li><strong>Product and Process</strong> - A product is any language which a student creates, and products are created as a result of processes. Process is a developing, dynamic concept, which contrasts with the static nature of product. Teachers are necessarily product-oriented, because we have to have some way of evaluating processes. Thus essays, tests, etc. It is important to remember the processes involved in creating these products, though.</li>
+  <li><strong>Accuracy and Fluency</strong> - usually for describing two different kinds of exercise. Accuracy demands that a student get the language “right”. Fluency exercises tend to be more open-ended, and ask for a demonstration that the student be able to use the language, not just recognize the correct usage. The Lexical Approach holds that fluency leads to accuracy, as opposed to the other way around.
+    <ul>
+      <li>“Despite the obvious fact that accuracy is a late-acquired feature of all language learning, it remains regrettably true that many teachers emphasize accuracy too early, and at the expense of fluency.”</li>
+    </ul>
+  </li>
+  <li><strong>Learning and Acquisition</strong> - Both used to describe how we learn languages. Acquision is the internalization of rules and formulae which are then used to communicate but for this purpose counts as “the spontaneous process of rule internalisation that results from natural language use, while ‘learning’ consists of the development of concsious knowledge through formal study”. Sure. According to this theory, we are able to test learning but not acquisition. It’s obvious that we do both of these things, but we should not think that they’re entirely unconnected.</li>
+</ol>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Dichotomies Involved in Language Teaching Part 1</title>
+	  <link>/TEFLBlog//dichotomies-in-language-teaching-part-1</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-08-08T00:00:00+07:00</pubDate>
+	  <guid>/TEFLBlog//dichotomies-in-language-teaching-part-1</guid>
+	  <description><![CDATA[
+	     <ol>
+  <li><strong>Spoken Language and Written Language</strong> - is written language superior? Is it just spoken language written down? We would argue not, as there are plenty of literary devices that sound downright odd when spoken. There are no extant grammars of spoken English.</li>
+  <li><strong>Vocabulary and Grammar</strong> - Grammar is tricky because it tends to refer to sentence structures, verb tenses, and all the nitpicky parts of language that aren’t memorizing vocabulary lists. However, in linguistic terms “grammar” is the unconscious stucture of language that is not necessarily taught OR the written book of a language that contains known phonetics, phonology, morphology, and syntax. The book also wants to distinguish that there is plenty of vocabulary based in “bits” and not words - suprasegmental phrases, etc.</li>
+  <li><strong>Receptive and Productive Skills</strong> - Writing and Speaking as active, and listening and reading as passive. However for ESL students, listening and reading are far from passive, and we should probably think about them as “productive and receptive” as opposed to “active and passive”. It’s been found that students’ general language abilities develop most rapidly in the early stages if the approach is largely based on controlled listening.
+    <ul>
+      <li>The book also wants to make the distinction that we can’t assume a totally linear style of learning and that proving “mastery” over a set of vocabulary or sentence structure does not mean the student will continue to produce 100% correct speech. “Once teachers realize this, and see their own purpose as primarily to aid the student’s long term acquisition of the system of English, it is easier to value, and concerntrate on receptive work in the classroom.”</li>
+    </ul>
+  </li>
+  <li><strong>Competence and Performance</strong> - We can observe performance but we have no way of observing, or indeed knowing anything about, competence. This holds true in Native speakers too. When working with fellow TEFL classmates, I could see them produce grammatically correct English but not be able to discern the distinction between a possessive adjective and a possessive pronoun. This ties back into the idea of “model” speech, which is problematic in many ways. See <strong>On Model Speech</strong>.</li>
+  <li><strong>Usage and Use</strong> - Usage is the broader term - is a sentence salient? Is it possible to say in the English language? Does it follow all the rules, and is it cromulent? However, usage is devoid of context. Use is the metric by which we decide if a sentence has a function and a purpose. Included is the ida of <strong>illocutionary force</strong> - “the idea that we need to ask what the speaker’s intention was in producing a particular sentence”, is sort of the rebuttal to Chomsky’s “colorless green ideas sleep furiously”.
+    <ul>
+      <li>“Overemphasis on mastery of what we imagine to be the basic structures of the language has frequently resulted in language teaching greatly overemphasizing usage. Many sentences occured in textbooks, and were used in grammar practices which were well-formed English sentences, but which it was difficult to imagine anyone actually using”. I have found this to be the case in the official curriculum set up by the governmernt in which I teach, which praises “What’s the matter?” instead of “Are you okay?” (“Water can alleviate thirst” for no reason) or further stilted sentences that none of my American contemporaries use, let alone Asian ESL children.</li>
+    </ul>
+  </li>
+</ol>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>When Do We Use Adverbs</title>
+	  <link>/TEFLBlog//when-do-we-use-adverbs</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-08-04T00:00:00+07:00</pubDate>
+	  <guid>/TEFLBlog//when-do-we-use-adverbs</guid>
+	  <description><![CDATA[
+	     <h3 id="theyre-super-bullshit">They’re super bullshit</h3>
+
+<p>So adverbs are apparently the “catch-all” part of speech, according to the grammar textbook I am having an increasingly contentious relationship with. They aren’t just “words that modify the verb”. Let’s go into what the book says, partially so that there’s an adverbs list up here on the blog and partially so that I memorize the different kinds of adjectives.</p>
+
+<h3 id="adverbs-of-manner">Adverbs of Manner</h3>
+
+<p>They express how something is done. Most commonly they go after a verb, after an object, or after an “adverbial”, which is apparently just a phrase that acts as an adverb.</p>
+
+<p>“You spoke <strong>convincingly</strong>.”</p>
+
+<p>“You described everything to the Board of Directors <strong>passionately</strong>.”</p>
+
+<p>“She <strong>carefully</strong> put the Emmy back on the shelf.”</p>
+
+<p>But then they also contradict themselves and they can go BEFORE all of those things.  Also, they can qualify adjectives, i.e. “<strong>loosely</strong> assembled notes” which doesn’t sound weird or difficult to understand to me, since “loosely” is modifying assembled. You know, the verb. Okay I guess it’s an adjective in the bigger sentence but since this is just a fragment, and assembled is a participle, it <em>makes sense in my head leave me alone</em>.</p>
+
+<h3 id="adverbs-of-frequency">Adverbs of Frequency</h3>
+
+<p>always, usually, hardly ever (so British), rarely, never, etc. These guys can go pretty much wherever depending. That’s not true, but they say they have no good way to explain this to language learners, so whatever.</p>
+
+<h3 id="adverbs-of-time-and-place">Adverbs of Time and Place</h3>
+
+<p>here, there, down, on Wednesday, underneath.</p>
+
+<p>Including the tricky bastards <em>already, still</em> and <em>yet</em>. The textbook basically threw up its hands and said “These can only be explained in context, and you’re going to have to do it in the speaker’s native language.”</p>
+
+<p>Oh, here we go. Later on in the chapter they remind us that <em>yet</em> usually goes with negative sentences and <em>already</em> usually goes with positive ones.</p>
+
+<h3 id="adverbs-of-degree">Adverbs of Degree</h3>
+
+<p>“He scribbled <strong>furiously</strong>.”</p>
+
+<p>“I am <strong>very</strong> hungry.”</p>
+
+<p>Categorized needlessly into intensifires and downtowners. Possibly the most British of all adverbs, downtowners aren’t really a thing unless you’re trying to be rude.</p>
+
+<p>“You swam <strong>fairly</strong> well.”</p>
+
+<h3 id="adverbs-of-quantity">Adverbs of Quantity</h3>
+
+<p>A little, a lot, and much.</p>
+
+<p>‘Nuff said.</p>
+
+<h3 id="focusing-adverbs">Focusing Adverbs</h3>
+
+<p>Even, only, and also.</p>
+
+<p>They sort of single out information or express a restriction of meaning of the verb.</p>
+
+<h3 id="attitude-markers">Attitude Markers</h3>
+
+<p>I don’t know if these are a real thing. Naturally, clearly, hopefully, fortunately. I guess they mark that the sentence expressed afterwards is an opinion, because it signifies the speaker’s position on the event.</p>
+
+<h3 id="adverbs-are-sometimes--ly-but-not-always">Adverbs Are Sometimes -ly But Not Always</h3>
+
+<p>Great. Helpful. Thanks.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Word Nerding Out</title>
 	  <link>/TEFLBlog//word-nerding-out</link>
 	  <author>Jaqueline Steiger</author>

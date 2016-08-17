@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>esimonian.github.io/TEFLBlog/</title>
+   
+   <link>http://esimonian.github.io/TEFLBlog/</link>
+   <description></description>
+   <language>en-uk </language>
+   <managingEditor> Jaqueline Steiger</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Transitive Verbs Take an Object</title>
+	  <link>/TEFLBlog//transitive-verbs-take-an-object</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-08-12T00:00:00+07:00</pubDate>
+	  <guid>/TEFLBlog//transitive-verbs-take-an-object</guid>
+	  <description><![CDATA[
+	     <p>Intransitive verbs do not.</p>
+
+<p>That is all.</p>
+
+<p>Let this be the last time I confuse transitive and intransitive verbs.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
