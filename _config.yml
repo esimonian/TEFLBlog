@@ -17,14 +17,14 @@ author: 'Jaqueline Steiger'
 nickname: Monk1
 bio: 'Complaining and measuring horses. Scolding fish. Normal stuff'
 location: 'Thailand'
-url: 'http://esimonian.github.io/TEFLBlog/'
+url: 'http://www.adventuresinteach.com/'
 image: 'assets/images/jaqlargehead.jpg'
 
-short_url: 'esimonian.github.io/TEFLBlog/'
+short_url: 'adventuresinteach.com'
 google_analytics:
 disqus: 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /TEFLBlog/
+baseurl: 'http://www.adventuresinteach.com/'
 
 # Permalinks
 permalink: /:title
