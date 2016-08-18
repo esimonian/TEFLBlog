@@ -20,11 +20,11 @@ location: 'Thailand'
 url: 'http://www.adventuresinteach.com/'
 image: 'assets/images/jaqlargehead.jpg'
 
-short_url: 'adventuresinteach.com'
-google_analytics:
-disqus: 
+short_url: 'adventuresinteach.com/'
+google_analytics: 'UA-12536780-3'
+disqus: 'http-adventuresinteach-com'
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: 'http://www.adventuresinteach.com/'
+baseurl: '/'
 
 # Permalinks
 permalink: /:title
@@ -33,7 +33,9 @@ permalink: /:title
 
 
 # gems and other configs
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+  - octopress-minify-html
 exclude: [vendor]
 
 # Additional settings available on the front-matter
@@ -62,7 +64,7 @@ repo: TEFLBlog
 branch: master
 relative_source: ../TEFLBlog/
 destination: ../TEFLBlog-pages/
-production_url:  http://esimonian.github.io/TEFLBlog/
+production_url:  http://www.adventuresinteach.com/
 source_url:      https://github.com/esimonian/TEFLBlog/
 
 exclude:

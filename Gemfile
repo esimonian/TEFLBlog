@@ -7,3 +7,6 @@ gem "jekyll"
 #gem 'rouge', '~> 1.10', '>= 1.10.1'
 gem "github-pages"
 gem "rake", "~> 10.1.1"
+group :jekyll_plugins do
+  gem 'octopress-minify-html'
+end
