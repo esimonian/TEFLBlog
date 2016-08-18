@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>adventuresinteach.com</title>
+      <title>adventuresinteach.com/</title>
    
    <link>http://www.adventuresinteach.com/</link>
    <description></description>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Word Nerding Out</title>
-	  <link>http://www.adventuresinteach.com//word-nerding-out</link>
+	  <link>//word-nerding-out</link>
 	  <author>Jaqueline Steiger</author>
 	  <pubDate>2016-08-04T00:00:00+07:00</pubDate>
-	  <guid>http://www.adventuresinteach.com//word-nerding-out</guid>
+	  <guid>//word-nerding-out</guid>
 	  <description><![CDATA[
 	     <p>My newest textbook is “The Lexical Approach” and its core principle is here: </p>
 
