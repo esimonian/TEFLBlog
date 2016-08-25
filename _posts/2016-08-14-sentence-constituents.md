@@ -1,12 +1,12 @@
 ---
-layout: post
-cover: 'assets/images/girl-reading-a-book.jpg'
 title: Sentence Constituents
-date:   2016-08-14
-tags:  teaching delta linguistics 
-subclass: 'post tag-test tag-content'
-categories: 'Monk1'
-navigation: True
+date: '2016-08-14 00:00:00'
+layout: post
+cover: assets/images/girl-reading-a-book.jpg
+tags: teaching delta linguistics
+subclass: post tag-test tag-content
+categories: Monk1
+navigation: true
 ---
 
 <strong>Clauses</strong> are a thing. We're not talking about them yet.
@@ -62,3 +62,5 @@ Now they tell me. Sentences consist of a subject and a predicate. Predicates can
 **Separated verb phrases** are a thing we do sometimes.
 
 **Spoken English** changes all these rules based on the whims of its mercurial speakers. Another problem for teachers and the model/real speech gap. See <u>On Model Speech.</u>  
+
+Did this work??
