@@ -12,188 +12,519 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>Discourse Markers</title>
-	  <link>//discourse-markers</link>
+	  <title>The Rain In Spain Stays Mainly In The Plain</title>
+	  <link>//the-rain-in-spain</link>
 	  <author>Jaqueline Steiger</author>
-	  <pubDate>2016-08-28T00:00:00+07:00</pubDate>
-	  <guid>//discourse-markers</guid>
+	  <pubDate>2016-10-05T00:00:00+04:00</pubDate>
+	  <guid>//the-rain-in-spain</guid>
 	  <description><![CDATA[
-	     <h3 id="meta-language">Meta-language</h3>
+	     <p>Or, how phonetics works.</p>
 
-<p>We have a whole secret category of words that don’t have any semantic meaning. They don’t add to the sentence, they don’t impart any specific meaning regarding the intent of the speaker or writer. The only thing they do is provide information about the STRUCTURE of the sentence/phrase/speech (utterance) itself. We call these <strong>discourse markers</strong>.</p>
+<p>When I was in undergrad, I was one of those obnoxious students that fell in love with IPA, the international phonetics alphabet. My best friend (who also had 9am Monday/Wednesday phonetics classes and was the same kind of nerd as me) and I would pass notes in IPA in class. Not for any reason. Just <strong>for funsies</strong>. Surprisingly, we also both got laid in college.</p>
 
-<h3 id="what-do-discourse-markers-do">What Do Discourse Markers Do?</h3>
-
-<p>They help us organize the flow of information. We can use them to:</p>
-
-<p>1) Signpost logical relationships and sequences - “firstly” “furthermore”, etc</p>
-
-<p>2) Manage conversation and turn-takeing - “and you?”</p>
-
-<p>3) Influence how our listeners or readers react - “all the same”</p>
-
-<p>4) Express our attitude to what we say and write - “I’m afraid”</p>
-
-<p>This is really more of a feeling than a hard and fast category. There’s not a whole lot of consensus or rigidly-defined list of discourse markers. Here are some examples:</p>
+<p>To be fair, it is a really cool system. The way that IPA works is that each SOUND has exactly one symbol that describes it. And no, that’s not how any “regular” alphabet works. English is especially terrible for that. What sound does a <strong>c</strong> make? What about an <strong>a</strong>? Or even better, the Chomskiest of all Linguistics jokes.</p>
 
 <blockquote>
-  <p>Firstly</p>
+  <p>“How do you spell fish?”</p>
 
-  <p>in fact</p>
+  <p>“ghoti - gh ais in laugh, o as in women, and ti as in function.”</p>
 
-  <p>on the contrary</p>
-
-  <p>however</p>
-
-  <p>nevertheless</p>
-
-  <p>futhermore</p>
-
-  <p>right?</p>
-
-  <p>you know</p>
-
-  <p>on the other hand</p>
-
-  <p>so</p>
-
-  <p>anyway</p>
-
-  <p>uhh</p>
-
-  <p>finally</p>
+  <p>ba-dum-tis (cymbal noise)</p>
 </blockquote>
 
-<p>All of these words/utterances tell us information about the discourse preceding or following it. How does it relate? Where is it in a sequence? How do we feel about it?</p>
+<p>So what IPA does is allow you a system to transcribe the exact SOUNDS of anything.</p>
 
-<p>Things that discourse markers can do:</p>
+<p>It’s precise, it’s gorgeous, you can be as broad or as nitpicky with your transcriptions as you like, and it is 100% logical. I was hooked. I wanted to teach THE WHOLE WORLD IPA. My friend and did actually do a thesis where we taught IPA to ESL students in a classroom and see how their pronunciation skills improved. It was insane.</p>
 
-<p>a) numbering and order</p>
+<p>Eventually I grew up and realized that it’s not always feasible to teach language-learners an entirely new alphabet AS WELL as an entirely new language.  But if you’re a language nerd, a pronunciation fanatic, want to know what dictionary pronunciation is, or you are trying to learn an accent it is a priceless tool.</p>
 
-<p>b) adding something</p>
+<p>I use IPA a lot in this blog, but generally in the broader sense. a word bounded by slashes - /slash/ is phonemic transcription - the most generally recognized way to transcribe. It doesn’t bother with diacritics like aspiration, dental or apical co-articulation, or releases. That’s phonetic transcription, and it’s generally marked by [brackets].</p>
 
-<p>c) linking similar things together</p>
+<p>I at some point will probably talk about all the cool shit hidden in IPA and phonetics, like syllabified m and n, the ridiculous amount of fricatives hiding in English, and the sounds that we DON’T have in the English language. Maybe I’ll also tell the story of how I cockblocked some guy with linguistics knowledge LIKE A BOSS.</p>
 
-<p>d) introducing something that contrasts with expectations</p>
+<p>Right now, we’re focusing on IPA and English phonetics in general though.</p>
 
-<p>e) causes and results</p>
+<h2 id="how-kind-of-you-to-let-me-come">How Kind Of You To Let Me Come</h2>
 
-<p>f) generalizing</p>
+<p>English is generally divided into consonants and vowels. We have around ten vowels, and around 21 consonants. This is a subject of <strong>huge debate</strong> among phoneticists though. is the sound a “w” makes a consonant, a glide, or a vowel? I DONT CARE IT’S NEAT.</p>
 
-<p>g) exemplifying and narrowing down</p>
+<p>Consonants are classified by the place of articulation in the mouth, the manner of airflow constriction, and voicing.</p>
 
-<p>h) re-stating</p>
+<p>Vowels are classified along four axis of front/back, high/low, round/unround and a mystery axis tense/lax.</p>
 
-<p>i) rounding off</p>
+<p>Here are some normal words written in IPA. Primary stress is marked with a superscript tick-mark ‘ and secondary stress (if it exists) is marked with a subscript tick-mark ˌ.</p>
 
-<p>j) conversation management</p>
+<p>/əˈlon/</p>
 
-<p>How do we teach something as subjective, varied, and intricate as discourse markers?</p>
+<p>/ɪmˈpɹɛ-ʃɪn/</p>
+
+<p>/ˈlɛk-ʃəɹ/</p>
+
+<p>/rəˈpli:t/</p>
+
+<p>/ˌsʌ-pləˈmɛn-tʃɹi/</p>
+
+<p>/ˈlæpˌtɑp/</p>
+
+<p>/ædˈmɪ-ʃən/</p>
+
+<p>/ˈlæɾ-ɪˌtu:d/</p>
+
+<p>/əˌlɑŋˈsaɪd/</p>
+
+<p>/ˌɛ-pəˈlɛp-tɪk/</p>
+
+<p>Now I’m going to do some weird trivia.</p>
+
+<h2 id="with-blackest-moss-the-flowerpots">With Blackest Moss The Flowerpots</h2>
+
+<p>ch /tʃ/ is realy a fast t - sh sound.</p>
+
+<p>j /dʒ/ is really a fast d - ʒ (that squiggly letter is the ge sound in mirage) sound.</p>
+
+<p>Affricates are neat. They start out as plosives/stops/whatever you want to call them, where the airflow is entirely blocked. And then they really quickly become fricatives - the sounds that you can hum forever.</p>
+
+<h2 id="moses-supposes-erroneously">Moses Supposes Erroneously</h2>
+
+<p>We have three nasal sounds in English - those are sounds where air is blown through the nasal cavity as well as the mouth. You can recognize them because they are the sounds it is impossible to say when you have a stuffy nose.</p>
+
+<p>We have a bilabial nasal plosive, /m/.</p>
+
+<p>We have an alveolar nasal plosive, /n/.</p>
+
+<p>And we have a velar nasal plosive /ŋ/.</p>
+
+<p>/ŋ/ is the “ng” sound, and you can remember it because it looks like an “ng” squished together. It’s the sound at the end of “singing”. It is in fact, one sound though. We don’t really notice in English because it cannot occur word-initially so we don’t think about it as a real sound independent of orthography. But LOTS of other languages do have this sound word-initially, and it is one of the first stumbling blocks that English-speakers have when learning phonetics. (Let’s not even get go into the uvular trill or pharyngeal sounds.)</p>
+
+<p>Thankfully, I learned to pronounce this fairly early in undergrad, as it’s a SUPER prominent sound in Thai. It’s the letter ง, and is the first sound in งู /ŋu:/, snake.</p>
+
+<h1 id="wouldnt-it-be-loverly">Wouldn’t It Be Loverly</h1>
+
+<p>As continuing evidence for my obsession with the phonetic alphabet, my web dev friend and I are making you an app so that you too can type in IPA whenever the mood strikes you. We will shortly have available an IPA keyboard compatible with iphone and ipad for all of your transcription, secret-note-passing, accent-learning, or language-teaching needs.</p>
 
 	  ]]></description>
 	</item>
 
 	<item>
-	  <title>Classifying Consonants</title>
-	  <link>//classifying-consonants</link>
+	  <title>Assumptions About Language Learning and Teaching?</title>
+	  <link>//assumptions-about-language-learning</link>
 	  <author>Jaqueline Steiger</author>
-	  <pubDate>2016-08-26T00:00:00+07:00</pubDate>
-	  <guid>//classifying-consonants</guid>
+	  <pubDate>2016-10-03T00:00:00+04:00</pubDate>
+	  <guid>//assumptions-about-language-learning</guid>
 	  <description><![CDATA[
-	     <h2 id="how-do-we-distinguish-consonants">How Do We Distinguish Consonants?</h2>
+	     <p>Are apparently a huge deal and in one of the sections of the DELTA. Unfortunately, there are NONE in the assigned reading for the task I’m working on. Do I draw these assumptions from other readings in this week? From the course material? From THE FUCKING AIR?</p>
 
-<h3 id="voicing">Voicing</h3>
+<p>Now I’m looking at old tests (they do release them, neat) and blogs from other people who have taken the DELTA. I’m going to start listing some assumptions.</p>
 
-<p>Consonants can either be voiced or voiceless, and English comes with paired voiced and voiceless consonants: /p/ <strong>/b/</strong>, /t/ <strong>/d/</strong>, /k/ <strong>/g/</strong>, etc.</p>
+<ol>
+  <li>Personalization</li>
+  <li>Collaboration/pairwork</li>
+  <li>Visuals</li>
+  <li>Learning styles</li>
+  <li>Language in context</li>
+  <li>Activating previous knowledge or schemata</li>
+  <li>Integrated focus on skills</li>
+  <li>Variety</li>
+  <li>Textuality</li>
+  <li>Process modeling</li>
+</ol>
 
-<p>Note that English does not distinguish between aspirated and unaspirated consonants (<strong>aspirated</strong> = a puff of air accompanies the sound as it comes out of your mouth. Put your hand up to your mouth and say “pot” and “spot”. You’ll feel air come out for “pot” but not “spot”) but many other languages do.</p>
+<p>man, I don’t know. I’m going to have to come back to these assumptions, they’re apparently extremely important.</p>
 
-<h3 id="place-of-articulation">Place of Articulation</h3>
+	  ]]></description>
+	</item>
 
-<p>We talk about consonants based on where in the mouth the airflow is restricted. Consonants that involve the lips are <em>labial</em> or <em>bilabial</em>. Consonants that involve a curled-back tongue are <em>retroflex</em>.</p>
+	<item>
+	  <title>Adjacency Pairs, We Meet Again</title>
+	  <link>//adjaceny-pairs</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-10-01T00:00:00+04:00</pubDate>
+	  <guid>//adjaceny-pairs</guid>
+	  <description><![CDATA[
+	     <p>My undergrad Linguistics &amp; Anthropology degree was heavily influenced by ethnomethodologists, both in linguistic anthropology and conversational analysis. Some of my professors were pioneers in the field of discourse analysis, and we had to do a LOT of ethnomethodological study. This involved giving waivers to all my friends and carrying a tape recorder around for awhile, as there’s no perfect way to amass a lot of real-world conversational data.</p>
 
-<p>Generally, the places of articulation (FOR ENGLISH) as we move back through the mouth are thus: bilabial, labiodental, alveolar, alveopalatal, velar, glottal.</p>
+<p>One of the most important (or prominent) types of utterances in dicourse is the <strong>adjacency pair</strong>. This is a standardized two-part utterance that almost everyone recognizes the pattern of. Here are some examples:</p>
 
-<p>Fascinating types of sound we don’t have in English: retroflex, palatal, uvular, pharyngeal.</p>
+<blockquote>
+  <p>greeting - greeting</p>
 
-<h3 id="manner-of-articulation">Manner of Articulation</h3>
+  <p>congratulations - thanks</p>
 
-<p>This variable describes the <em>way</em> in which airflow is constricted.</p>
+  <p>apology - acceptance</p>
 
-<p><u>Stops</u> or <u>plosives</u> involve a complete blockage of airflow.</p>
+  <p>inform - acknowledge</p>
 
-<p><u>Fricatives</u> involve a narrowing of the airways and generally a hissing sound.</p>
+  <p>leave-taking - leave-taking</p>
 
-<p><u>Nasals</u> involve air moving through the nose as well as the mouth.</p>
+  <p>Like, ALL CUSTOMER SERVICE INTERACTIONS*</p>
+</blockquote>
 
-<p>There’s a lot of types, some of them are really interesting!</p>
+<p>Can you think of real-world examples of all these? I bet you can.</p>
+
+<h3 id="further-adjaceny-pair-nonsense">Further Adjaceny Pair Nonsense</h3>
+
+<p>According to my book,</p>
+
+<blockquote>
+  <p>“The mutual dependence of [adjacency pair] utterances is underlined by the fact that we can only be absolutely sure of the <em>function</em> of the initiating utternace when it is contextualized with the response it gets, and vice versa.”</p>
+</blockquote>
+
+<p>*fun fact we did conversational analysis of sleepy college students ordering Jamba Juice in the school cafeteria and customer service interactions are basically MODEL ENVIRONMENTS to find and study adjaceny pairs.</p>
+
+<p>Jamba Employee: “Good morning, welcome to Jamba Juice!”</p>
+
+<p>Hungover Student: “Hi.”</p>
+
+<p>JE: “What can I get for you?”</p>
+
+<p>HS: “Can I have a small Razzmatazz with vitamin boost?”</p>
+
+<p>JE: “Anything else?”</p>
+
+<p>HS: “No, that’s it.”</p>
+
+<p>JE: “That’ll be $4.50.”</p>
+
+<p>HS: “Here you go.”</p>
+
+<p>JE: “Thanks, have a nice day!”</p>
+
+<p>HS: “Thank you.”</p>
+
+<p>Can you spot all the adjaceny pairs? Sometimes gestures or grunts were substituted for an utterance, but the function was the same.</p>
+
+<h3 id="robot-code-and-fluency">Robot Code and Fluency</h3>
+
+<p>Native speakers tend to seem more free with their speech patterns than non-native speakers do. That’s not really true, native speakers just have more options and knowledge about what CAN plug into each speech pattern.</p>
+
+<blockquote>
+  <p>“This is not to deny the usefulness of formulae as a survival kit at the most elementary levels, nor should we forget that muc native-speaker language <em>is</em> formulaic; it is simply that the native speaker usually has a vastly greater range of formulae to call upon for use in a wider range of strategic domains, along with a flexible and adaptable lexicon of non-formula based items.”</p>
+</blockquote>
+
+<p>Basically, native speakers are working with more complex code.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Vocabulary and Text Organizing</title>
+	  <link>//vocab-and-text-organizing</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-09-29T00:00:00+04:00</pubDate>
+	  <guid>//vocab-and-text-organizing</guid>
+	  <description><![CDATA[
+	     <h2 id="more-classifications-of-words-to-talk-about-words">More Classifications of Words to Talk About Words</h2>
+
+<p>My book is talking about “closed systems” versus “open systems” in lexis. There are words which are <u>grammar words</u> and words that are <u>lexical words</u>.</p>
+
+<p>Grammar words: and, to, the, in, this…</p>
+
+<p>Lexical words: monkey, sculpture, temperance, aboriginal…</p>
+
+<p>And then it turns out there’s also a <em>secret class</em> of words called <u>discourse-organizing words</u>. These are words like issue, problem, assessment that help us frame how we think about the discourse AROUND them.</p>
+
+<p>They’re both super useful and pose problems for language learners. A student who has trouble with <u>discourse-organizing words</u> may be disadvantaged in the struggle to decode whole texts as efficiently or accurately as possible.</p>
+
+<h2 id="modality-is-also-cool">Modality Is Also Cool</h2>
+
+<p>Modality is usually thought to be the province of modal verbs such as <em>can, should, might</em> etc. But actually, based on the research, a lot more lexical items are used to express modality:</p>
+
+<blockquote>
+  <p>Apparently, assume, doubt, guess, as if, suggest, think, actually, surprisingly</p>
+</blockquote>
+
+<p>All these words help us ascertain the attitude of the speaker/writer. While the actual modal auxiliary verbs are fairly frequently taught in classrooms, the REST of the words expressing modality are given far less time and attention.</p>
+
+<p>Innnnnnteresting.</p>
 
 
 	  ]]></description>
 	</item>
 
 	<item>
-	  <title>What is a Consonant Though?</title>
-	  <link>//what-is-a-consonant-though</link>
+	  <title>Lexical Cohesion is Sick</title>
+	  <link>//lexical-cohesion</link>
 	  <author>Jaqueline Steiger</author>
-	  <pubDate>2016-08-22T00:00:00+07:00</pubDate>
-	  <guid>//what-is-a-consonant-though</guid>
+	  <pubDate>2016-09-27T00:00:00+04:00</pubDate>
+	  <guid>//lexical-cohesion</guid>
 	  <description><![CDATA[
-	     <h2 id="definition-problems">Definition Problems</h2>
+	     <p>So we know about synonyms and antonyms and hyponyms and all that shit, right? Turns out its not just trivia questions for English teachers and people who like to analyze poetry.</p>
 
-<p>There are two definitions for “consonant”, and they both come with their own problems.</p>
-
-<blockquote>
-  <p>Definition one: sounds made by restricting or blocking the airflow in some physical way.</p>
-</blockquote>
-
-<p>The problem with this definition is that it leaves out the English phonemes /j/ and /w/, which can be found in words like <u>y</u>ard and <u>w</u>ish, respectively. /j/ and /w/ have tongue positions and are semi-vowels/glides as opposed to proper consonants. Which means we have to bring in another way to distinguish them from vowels.</p>
+<p>We USE all those things in everyday speech, CONSTANTLY.</p>
 
 <blockquote>
-  <p>Definition two: a sound that either alone or in a consonant cluster marks the beginning or end of a syllable.</p>
+  <p>“How was the party last night? Fun?”</p>
+
+  <p>“Oh man, it was off the hook! Everyone was wasted.”</p>
+
+  <p>“Aw, jealous. I haven’t been proper tanked in awhile.”</p>
 </blockquote>
 
-<p>This makes a lot of sense, because those with Linguistics training know that the vowel is the heart of the syllable. They know that consonants can only start or end syllables, and they know that there is a finite number of consonant clusters and variations that can occur at the beginning or end of any given syllable.</p>
+<p>Fun and off the hook are synonyms. Wasted and tanked are synonyms. We use reiteration and collocation constantly in order to link feelings and concepts in speech, and in order to keep topics moving.</p>
 
-<p>Great! Although:</p>
+<p>A small number of lexical chains can account for almost all of the content items IN a conversation.</p>
 
-<p>Unless you’ve HAD a bunch of Linguistics training, you don’t know what sounds ARE allowed to be the beginning/ending of syllables. English has a lot of weird rules.</p>
+<h2 id="more-usefulness">More Usefulness</h2>
 
-<p>For instance, we have the voiced velar nasal -ng word finally but not word-initially. That’s not a universal thing, there are plenty of words in Thai that start with ng-. Snake, for example, is ngoo.</p>
+<p>Data shows (and anecdotal evidence would support) that English speakers don’t respond to every utterance with “I agree” or “I disagree”. We use lexical cohesive devices to state our agreement or disagreement without sounding like insane robots.</p>
 
-<p>We can begin a syllable with str-, spr-, sl-, tr-, and many other two-or-three consonant clusters. But unless you take the time to think about it, this isn’t a very helpful way to determine where the consonants and vowels are.</p>
-
-<p>What I would suggest if I was teaching non-linguists is to say that <strong>a consonant is any sound that constricts or stops the airflow in speech OR is /w/ or /j/</strong>.</p>
-
-<p>If I was teaching linguists, I would love to go into syllable restraints, stress, vowels, syllabified consonants, and all that fun stuff. But in general, the people I teach are small enough to still get to have naptime after lunch.</p>
+<p><strong>Instantial relations</strong> are discourse-specific lexical relations. If normally “cute” is a desirable trait, but in a specific dialogue it is framed as an undesirable trait, “cute” and “awful” and synomyms for bad things would be considered as having an instantial relationship.</p>
 
 	  ]]></description>
 	</item>
 
 	<item>
-	  <title>Word Nerding Out</title>
-	  <link>//word-nerding-out</link>
+	  <title>Study Cheatss</title>
+	  <link>//study-cheats</link>
 	  <author>Jaqueline Steiger</author>
-	  <pubDate>2016-08-04T00:00:00+07:00</pubDate>
-	  <guid>//word-nerding-out</guid>
+	  <pubDate>2016-09-25T00:00:00+04:00</pubDate>
+	  <guid>//study-cheats</guid>
 	  <description><![CDATA[
-	     <p>My newest textbook is “The Lexical Approach” and its core principle is here: </p>
+	     <h2 id="a-few-cheat-sheet-notes">A Few Cheat Sheet Notes</h2>
+
+<p>These have come up in discussion questions, and I feel like I should probably remember them.</p>
+
+<h3 id="same-same-but-different-words">Same Same But Different Words</h3>
+
+<p><u>homonyms</u> - same spelling, same sound, different meaning e.g. like as a verb, like as a preposition
+<u>homographs</u> - same spelling, different sound, different meaning “Do you like to read?” “I read the book yesterday.”
+<u>homophones</u> - same sound, different spelling, different meaning “I ate eight pieces of pizza.”</p>
+
+<h4 id="lexis-nonsense">Lexis Nonsense</h4>
+
+<p><u>Lexical set</u> - car, bus, train etc (words that belong to the same group e.g. vehicles)
+<u>Lexical field</u> - bus, conductor, driver (words that belong to the same topic)</p>
+
+<h3 id="interlanguge">Interlanguge</h3>
+
+<p><u>Interlanguage</u> is the type of language produced by second- and foreign-language learners who are in the process of learning a language. In language learning, learner’s errors are caused by several different processes. These include: </p>
+
+<p>a. borrowing patterns from the mother tongue 
+b. extending patterns from the target language. 
+c. Expr</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Obvious Examples of Textual Patterns</title>
+	  <link>//textual-patterns</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-09-23T00:00:00+04:00</pubDate>
+	  <guid>//textual-patterns</guid>
+	  <description><![CDATA[
+	     <p>Aren’t you excited for more discourse analysis? Let’s go.</p>
+
+<h3 id="clause---relational-or-logical-sequence">Clause - Relational or Logical Sequence</h3>
+
+<ol>
+  <li>
+    <p>Phenomenon - reason</p>
+  </li>
+  <li>
+    <p>Cause - consequence</p>
+  </li>
+  <li>
+    <p>Instrument - achievement</p>
+
+    <h3 id="weve-weirdly-tabbed-in-heres-more-kinds">We’ve Weirdly Tabbed in, Here’s more kinds</h3>
+
+    <ol>
+      <li>Problem - Solution</li>
+      <li>Situation - Problem - Response - Evaluation</li>
+    </ol>
+
+    <p>​</p>
+  </li>
+</ol>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Types of Grammatical Cohesion</title>
+	  <link>//grammatical-cohesion</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-09-21T00:00:00+04:00</pubDate>
+	  <guid>//grammatical-cohesion</guid>
+	  <description><![CDATA[
+	     <p>In discourse analysis, the current boring thing I’m reading about, grammatical cohesion and textuality are super important.</p>
+
+<p><strong>Textuality</strong> is basically the idea that utterances or discourse can be studied as a whole - as a text - as opposed to a series of sentences. Not super sure why it needed its own word for that, it seems like a tautology to me. Pieces of text can and should be analyzed as text. The book is even more vague about it.</p>
 
 <blockquote>
-  <p>“<strong>The lexical approach</strong> is a method of teaching foreign languages described by Michael Lewis in the early 1990s. The basic concept on which this <strong>approach</strong>rests is the idea that an important part of learning a language consists of being able to understand and produce <strong>lexical</strong> phrases as chunks.”</p>
+  <p>“<strong>textuality</strong>, that is, the feeling that something is a text, and not just a random collection of sentences.”</p>
 </blockquote>
 
-<p>So it’s bottom-up as opposed to top-down and is sort of how my program that I’m in approaches ESL teaching. I’m INTERESTED, but I’m not already drinking the Kool-Aid yet. I was definitely p-type and not s-type in school, but there’s also only so much communicative competence you can demonstrate by shouting individual words in random orders. </p>
+<p>Cool. Thanks, I guess. Textuality is more of a <em>feeling</em> than a helpful definition.</p>
 
-<p>Interested in hearing what other word nerds think about the Lexical Approach, since I never read it in undergrad. Maybe @dedalvs?</p>
+<p><strong>Cohesion</strong> and grammatical cohesion are easier to understand for me.</p>
 
-<h4 id="some-context">Some Context</h4>
+<blockquote>
+  <p>“The grammar of English offers a limited set of options for creating surface links between clauses and sentences of a text. Basically, most texts display links from sentence to sentence.”</p>
+</blockquote>
 
-<p>I’m starting the DELTA, which is a post-grad program for teaching ESL teachers. Eventually I want to set up a TEFL school - not to teach children English, but to teach the teachers HOW to teach children English, and this is the certification I need to do that.</p>
+<p>Essentially, a text wouldn’t go “I went to the park to see the squirrels. An alien took over the city.” and then continue on about the park/squirrel story without addressing the alien story.</p>
 
-<h5 id="even-more-context">Even More Context</h5>
+<p>There’s a few (three-ish) helper concepts in the support of grammatical cohesion.</p>
 
-<p>I actually don’t start DELTA Module 1 until September 12th. Why am I reading the textbooks a month in advance? Because I have a full-time job and another part time job and the course supposedly adds 15-20 hours of work a week to my 40-hour-a-week teaching job and my 15-hour-a-week remot production coordinating job. I want to get the jump on these textbooks so that I don’t succumb to exhaustion like an old-school lady protagonist.</p>
+<h3 id="reference">Reference</h3>
+
+<p>Reference items include pronouns, articles, and demonstratives, as well as a few weird preposition-type-dudes. References point from one part of a text to another.</p>
+
+<blockquote>
+  <p>“The schoolhouse had a red roof with a small chimney. <u>It</u> was cold in the summer and hot in the winter.”</p>
+</blockquote>
+
+<p>It obviously applies to the schoolhouse, linking the two sentences together. Looking backwards in the text like that is called <u>anaphoric reference</u>.</p>
+
+<p>References to assumed, shared worlds outside the text are <u>exophoric references</u>. These references will be shared by the speaker and audience, and are generally part of cultural awareness or the zeitgeist. “Things in the US are tense, until the election”. If the audience is reading the sentence in the time it’s written, they probably wouldn’t ask “which election?”</p>
+
+<p>References that point to parts of the text we haven’t experienced yet are called <u>cataphoric references</u>. These often involve pronouns but can also involved definite articles.</p>
+
+<h3 id="ellipsis">Ellipsis</h3>
+
+<p><u>Ellipsis</u> is a weird word. Also, <u>Ellipsis</u> is the omission of elements normally required by the grammar which the speaker/writer assumes are obvious from the context and therefore need not be raised. This isn’t just “everything in a text must be spelled out at all times” - that’s unnatural speech and how you know someone is an alien and/or robot. Specifically, ellipsis is distinguished by the <em>structure</em> of the discourse having some missing elements.</p>
+
+<blockquote>
+  <p>“The children will carry the small boxes, the adults the large ones”.</p>
+</blockquote>
+
+<p>“will carry” is omitted in the second clause because it can be assumed from the first clause.</p>
+
+<p>There are three kinds of ellipsis in English, <u>nominal</u>, <u>clausal</u>, and <u>verbal</u>, referring to what is being omitted.</p>
+
+<h5 id="we-care-about-ellipsis-because">We care about ellipsis because</h5>
+
+<p>it creates difficulties in learning. Not only in learning what structural omissions are permissible, but also it doesn’t seem to be readily used even by proficient learners in situations where native speakers naturally resort to it.</p>
+
+<p>Weird.</p>
+
+<p><u>Substitution</u> is also similar to ellipsis, but it’s the use of new words instead of just omitting. “Do you want a chocolate?” “Just <strong>one</strong>.” “Who likes pizza rolls?” “I <strong>do</strong>!”</p>
+
+<p>This kind of shit is not easily and directly transferrable to another language, so it’s weirdly fascinating to me.</p>
+
+<h3 id="conjunction">Conjunction</h3>
+
+<p>Is apparently cheating to include during our talk of grammatical cohesion? I don’t know why the book needs to tell me this. A <u>conjunction</u> does not set off a search backward or forward for its referent, but it does presuppose a textual sequence, and signals a relationship between segments of the discourse.</p>
+
+<p>These can be the literal conjunction parts of speech, a metatextual phrase (on the other hand), or a lexical item somewhere else in the clause.</p>
+
+<p>Some nerd has categorized conjunctions into <em>elaboration, extension</em> and <em>enhancement</em>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>What Is Discourse, Though?</title>
+	  <link>//what-is-discourse</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-09-19T00:00:00+04:00</pubDate>
+	  <guid>//what-is-discourse</guid>
+	  <description><![CDATA[
+	     <p>Discourse is a fancy-ass word that relates to speech acts and the study of ELT. It doesn’t have a really good definition but lets go over its key elements.</p>
+
+<ol>
+  <li><strong>It occurs in a context</strong> - language is typically embedded in real life settings, as opposed to artificial or produced sentences. We are involved in a myriad of speech acts every day, and the only false ones seem to be texts that are created specifically for learning. Weird, right?</li>
+  <li><strong>It involves above-sentence level of analysis</strong> - when loking at discourse, we are dealing with whole stretches of spoken or written text, rather than single sentences. Rarely in real-word contexts do we look at a single sentence - even if we do, it is placed in a larger environment (car prices, the relationship between the speakers, etc).</li>
+  <li><strong>It involves meaningful language</strong> - Language needs a context to give it meaning (yup, we established that). Meaning usually springs from the context in which discourse is used, with the status and/or roles of the speakers, the intentions of those involved in the communication being decisive in determining the form of the discourse which arises. Not entirely sure how this is different from context, tbh. Similar to the necessity of <em>purpose</em>, I guess.</li>
+  <li><strong>It always involves imperfect language</strong> - Error and imperfection are an inevitable result of any human behavior. Real language is not a matter of producing perfect sentences - discourses can be fragmentary, elliptical, and difficult to understand if the context is not clear. This is a HUGE difference with model texts - how many errors are present in every-day speech while it remains salient? How artificial does “perfect” speech sound?</li>
+  <li><strong>It usually involves some sort of communication</strong> - (durrr) Even if it is a single sentence, again, a meaning was conferred. Generally, discourse is language used for communication.</li>
+  <li><strong>Spoken discourse involves utterances rather than sentences</strong> - this is mostly a semantics-based point. Spoken pieces of dialogue are called “utterances” rather than sentences because they may not be grammatically perfect enough to count as sentences, because they may overlap, or because they are more informal.</li>
+</ol>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>3 Models of ELT</title>
+	  <link>//3-models-of-elt</link>
+	  <author>Jaqueline Steiger</author>
+	  <pubDate>2016-09-17T00:00:00+04:00</pubDate>
+	  <guid>//3-models-of-elt</guid>
+	  <description><![CDATA[
+	     <h1 id="this-is-boring-but-i-have-to-know-it">This Is Boring But I Have To Know It</h1>
+
+<p>And now you will too.</p>
+
+<p>There seems to be a “natural order” of grammatical morpheme acquisition, and it goes as follows:</p>
+
+<blockquote>
+  <p>-ing (progressive)
+(noun) plural(s)
+copula (‘to be’)
+↓
+auxiliary (progressive as in He is going)
+article
+↓
+irregular past
+↓
+regular past –ed
+third person –s
+possessive ’s</p>
+</blockquote>
+
+<p>Which is actually pretty neat. And there seems to be some evidence of regression - once a student has internalized a rule and goes on to do something else, they might synthesize that old rule incorrectly.</p>
+
+<p>Here are three conflicting theories about language learning:</p>
+
+<h2 id="behaviourism">Behaviourism</h2>
+
+<p>With the British “u” and everything. This is based on modeling and imitation, and requires positive reinforcement and corrective strategies. Based off behavioural psychology, which was essentially a “pics or it didn’t happen” branch of psych.</p>
+
+<p>This branch of learning stresses listening, repetition, imitation, and correction, as well as the acquisition of generative structures in a linear fashion.</p>
+
+<p>Obviously the backlash to this produced:</p>
+
+<h2 id="the-innatist-perspective">The Innatist Perspective</h2>
+
+<p>Dammit, Noam. Stay out of this. So this one is the idea of the Universal Grammar and Generative Grammar and a lot of Noam Nonsense. It’s got good points, in that babies can’t have heard every speech utterance. There has to be SOME sort of internal language system.</p>
+
+<p>Neither of these two systems are perfect, though.</p>
+
+<h4 id="side-note-for-krashen">Side Note for Krashen</h4>
+
+<p>Krashen is the guy the <em>The Lexical Approach</em> author has a huge hard-on for. He suggests:</p>
+
+<blockquote>
+  <p>“there was an essential difference between learning and acquisition, the former being akin to the conscious learning one does in class, the latter being largely unconscious and at a deeper, more permanent level. It also proposed that acquired language gave rise to spontaneous production (<em>fluency</em>), whereas learned language would be more deliberate, consciously produced, probably for a pedagogical or other formal purpose (<em>accuracy</em>).</p>
+
+  <p>A related hypothesis proposed that learners used a monitor to check what the accuracy and appropriateness of what they were saying, sometimes consciously, often unconsciously.”</p>
+</blockquote>
+
+<p>He also had the idea of the affective filter, the novel concept that things that are engaging and low-stress are easier to learn. Shocking.</p>
+
+<p>Now that we’re in the 21st century and everything has to be goddamn interdisciplinary all the time, we’re moving towards many</p>
+
+<h2 id="cognitive-perspectives">Cognitive Perspectives</h2>
+
+<p>There’s <strong>Information Processing Theory</strong>, “the idea of cognitive effort, which in turn involves attention, processing and automatisation”.</p>
+
+<p>There’s <strong>Declarative and Proceduarl Learning</strong>, concepts that are basically “knowledge that” and “knowledge how”. Thanks, cog sci. This is super groundbreaking.</p>
+
+<p>The <strong>Interaction Hypothesis</strong> is another one that someone got to claim but is really self-explanatory:</p>
+
+<blockquote>
+  <ol>
+    <li>
+      <p>Interactional modification makes input comprehensible </p>
+    </li>
+    <li>
+      <p>Comprehensible input promotes acquisition </p>
+    </li>
+    <li>
+      <p>Therefore interactional modification promotes acquisition</p>
+    </li>
+  </ol>
+</blockquote>
+
+<p>And then there’s the <strong>Sociocultural Approach</strong> which says that learning doesn’t happen in a vacuum and prioritizes the social event:</p>
+
+<blockquote>
+  <p>…emphasising the social event rather than the internal goings-on in the mind. Thus, student and tutor, or student and student co-constructed meaning in acting out an interactive event, with the learning arising out of the event itself, and the co-operation between the interactants.</p>
+
+  <p>The nature of input was important: it had to be interesting, challenging but not so difficult that it led to frustration. In short, it had to be focused and carefully graded – proximal to the stage of the learner’s stage of development. The theory went that deeper processing occurs when a learner is focused on what they are hearing from their interlocutor and while they are formulating their response. The process of production or output supposedly aids deeper understanding.</p>
+</blockquote>
 
 	  ]]></description>
 	</item>
